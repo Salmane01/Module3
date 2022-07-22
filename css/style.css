@@ -1,0 +1,42 @@
+#header-nav{
+    background-color: #929292;
+    box-shadow: 0px 1px 15px black;
+    height: auto;
+    border : 0;
+    border-radius : 0;
+}
+
+div.navbar-brand > p{
+    font-size: 2em;
+    text-decoration-style: solid;
+    color : black;
+}
+
+.navbar-header button.navbar-toggle, .icon-bar {
+    background-color : #929292;
+    border : 1px solid black;
+}
+#collapsable-nav #nav-list a {
+    text-align: center;
+    color : black;
+    font-size : 1.2em;
+}
+#collapsable-nav #nav-list li:hover {
+    background-color : #b6b2b2;
+    font-size: 1.3em;
+}
+.container .row div.box{
+    color : black;
+    background-color : #929292;
+    margin-right : 5px;
+    margin-left : 5px;
+    padding: 10px;
+    margin-bottom : 30px;
+    box-shadow: 5px 5px 15px black;
+}
+#top{
+    margin : 30px;
+}
+.container .row p{
+    margin-top :10px;
+}
